@@ -14,7 +14,7 @@ python pip install -r requirements.txt
 ```
 
 E' disponibile anche la **versione .exe per Windows x64** (a breve saranno disponibili anche le applicazioni per Linux e Mac):
-https://sourceforge.net/projects/tokencounterita/files/win_TokenCounterItaliano%28x64%29.rar
+https://sourceforge.net/projects/tokencounterita/files/win_TokenCounterItaliano%28x64%29.rar per il download.
 Per la versione .exe **non è necessario installare** le dipendenze.
 
 ## Utilizzo
