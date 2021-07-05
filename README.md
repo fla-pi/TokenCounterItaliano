@@ -21,3 +21,5 @@ Per la versione .exe **non è necessario installare** le dipendenze.
 Lanciare il programma. Se si utilizza per la prima volta il programma e non si è mai scaricato nltk-data, premere su _Installa NLTK DATA_.
 Selezionare il file .txt (o la cartella contenente file .txt) e contare i token. Se si apre un file, verrà mostrata una parte di testo, 
 altrimenti il totale per file e per cartella di token.
+
+![alt text](https://github.com/fla-pi/TokenCounterItaliano/blob/main/demonstration.gif)
