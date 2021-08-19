@@ -14,7 +14,8 @@ può essere fatto installandole direttamente da requirements.txt:
 ```
 python pip install -r requirements.txt
 ```
-**In alternativa:**
+In alternativa:
+
 **- Versione .exe per Windows x64**
 https://sourceforge.net/projects/tokencounterita/files/win_TokenCounterItaliano%28x64%29.rar per il download.
 
